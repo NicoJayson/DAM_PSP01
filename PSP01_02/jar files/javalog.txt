@@ -1,0 +1,1671 @@
+Creado el fichero.
+Creado el proceso 1
+java -jar lenguaje.jar 10 letras.txt
+Creado el proceso 2
+java -jar lenguaje.jar 20 letras.txt
+Creado el proceso 3
+java -jar lenguaje.jar 30 letras.txt
+Creado el proceso 4
+java -jar lenguaje.jar 40 letras.txt
+Creado el proceso 5
+java -jar lenguaje.jar 50 letras.txt
+Creado el proceso 6
+java -jar lenguaje.jar 60 letras.txt
+Creado el proceso 7
+java -jar lenguaje.jar 70 letras.txt
+Creado el proceso 8
+java -jar lenguaje.jar 80 letras.txt
+Creado el proceso 9
+java -jar lenguaje.jar 90 letras.txt
+Creado el proceso 10
+java -jar lenguaje.jar 100 letras.txt
+Proceso10: ENTRA sección
+Proceso10: SALE sección
+Proceso10: valor escrito fupyy
+Proceso10: ENTRA sección
+Proceso10: SALE sección
+Proceso10: valor escrito insjm
+Proceso10: ENTRA sección
+Proceso10: SALE sección
+Proceso10: valor escrito rfvfo
+Proceso30: ENTRA sección
+Proceso30: SALE sección
+Proceso20: ENTRA sección
+Proceso20: SALE sección
+Proceso20: valor escrito dnqoh
+Proceso30: valor escrito ntiwb
+Proceso20: ENTRA sección
+Proceso20: SALE sección
+Proceso20: valor escrito fsixq
+Proceso40: ENTRA sección
+Proceso40: SALE sección
+Proceso40: valor escrito rejsj
+Proceso50: ENTRA sección
+Proceso50: SALE sección
+Proceso50: valor escrito idjru
+Proceso20: ENTRA sección
+Proceso20: SALE sección
+Proceso20: valor escrito ivsqy
+Proceso50: ENTRA sección
+Proceso50: SALE sección
+Proceso50: valor escrito gfvep
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito bxglk
+Proceso10: ENTRA sección
+Proceso10: SALE sección
+Proceso10: valor escrito mahtt
+Proceso30: ENTRA sección
+Proceso30: SALE sección
+Proceso30: valor escrito esved
+Proceso50: ENTRA sección
+Proceso50: SALE sección
+Proceso50: valor escrito oxceg
+Proceso10: ENTRA sección
+Proceso10: SALE sección
+Proceso10: valor escrito pwokt
+Proceso20: ENTRA sección
+Proceso20: SALE sección
+Proceso20: valor escrito lxpet
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito bdihw
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito qkffe
+Proceso40: ENTRA sección
+Proceso40: SALE sección
+Proceso40: valor escrito ayujx
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito pekjv
+Proceso30: ENTRA sección
+Proceso30: SALE sección
+Proceso30: valor escrito bnbve
+Proceso50: ENTRA sección
+Proceso50: SALE sección
+Proceso50: valor escrito axasg
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito mravi
+Proceso40: ENTRA sección
+Proceso40: SALE sección
+Proceso10: ENTRA sección
+Proceso40: valor escrito ijftq
+Proceso10: SALE sección
+Proceso20: ENTRA sección
+Proceso10: valor escrito lqkct
+Proceso20: SALE sección
+Proceso20: valor escrito jhjej
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito vtmiq
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito iqqpo
+Proceso50: ENTRA sección
+Proceso50: SALE sección
+Proceso50: valor escrito nugyc
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito wlbqp
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito wquei
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito acvmd
+Proceso10: ENTRA sección
+Proceso10: SALE sección
+Proceso10: valor escrito fvkpb
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito hsbvb
+Proceso20: ENTRA sección
+Proceso20: SALE sección
+Proceso20: valor escrito yaypd
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito higed
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito hlxku
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito udaby
+Proceso30: ENTRA sección
+Proceso30: SALE sección
+Proceso10: ENTRA sección
+Proceso30: valor escrito jmrbg
+Proceso10: SALE sección
+Proceso10: valor escrito lwvee
+Proceso40: ENTRA sección
+Proceso40: SALE sección
+Proceso40: valor escrito rtffg
+Proceso50: ENTRA sección
+Proceso50: SALE sección
+Proceso50: valor escrito fxwdf
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito jbfbk
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito bntad
+Proceso40: ENTRA sección
+Proceso40: SALE sección
+Proceso40: valor escrito rsbkr
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito qibdm
+Proceso10: ENTRA sección
+Proceso10: SALE sección
+Proceso10: valor escrito qksqd
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito vwwna
+Proceso20: ENTRA sección
+Proceso20: SALE sección
+Proceso20: valor escrito jponb
+Proceso30: ENTRA sección
+Proceso70: valor escrito lcxar
+Proceso30: SALE sección
+Proceso30: valor escrito pvmlk
+Proceso50: ENTRA sección
+Proceso50: SALE sección
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito hkmbe
+Proceso50: valor escrito redmg
+Proceso20: ENTRA sección
+Proceso20: SALE sección
+Proceso20: valor escrito thvls
+Proceso30: ENTRA sección
+Proceso30: SALE sección
+Proceso30: valor escrito uuaka
+Proceso50: ENTRA sección
+Proceso50: SALE sección
+Proceso50: valor escrito wrosy
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito gkxof
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito mtqkn
+Proceso10: ENTRA sección
+Proceso10: SALE sección
+Proceso10: valor escrito pcxog
+Proceso40: ENTRA sección
+Proceso40: SALE sección
+Proceso70: ENTRA sección
+Proceso40: valor escrito jbyby
+Proceso70: SALE sección
+Proceso70: valor escrito qfuqy
+Proceso50: ENTRA sección
+Proceso50: SALE sección
+Proceso50: valor escrito bwocx
+Proceso30: ENTRA sección
+Proceso30: SALE sección
+Proceso30: valor escrito dxfjy
+Proceso20: ENTRA sección
+Proceso20: SALE sección
+Proceso20: valor escrito ineop
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito xlvvs
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito ojitc
+Proceso30: ENTRA sección
+Proceso30: SALE sección
+Proceso30: valor escrito vuqov
+Proceso50: ENTRA sección
+Proceso50: SALE sección
+Proceso50: valor escrito goeal
+Proceso40: ENTRA sección
+Proceso40: SALE sección
+Proceso40: valor escrito yctqw
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito fwpfj
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito ytpve
+Proceso50: ENTRA sección
+Proceso50: SALE sección
+Proceso50: valor escrito syjji
+Proceso40: ENTRA sección
+Proceso40: SALE sección
+Proceso40: valor escrito ghkbh
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito gdlnl
+Proceso20: ENTRA sección
+Proceso20: SALE sección
+Proceso20: valor escrito wkngi
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito hxdxf
+Proceso30: ENTRA sección
+Proceso30: SALE sección
+Proceso20: ENTRA sección
+Proceso20: SALE sección
+Proceso20: valor escrito edqbb
+Proceso70: ENTRA sección
+Proceso30: valor escrito cmcqwProceso70: SALE sección
+Proceso70: valor escrito tcyoa
+Proceso40: ENTRA sección
+
+Proceso40: SALE sección
+Proceso40: valor escrito mltor
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito aofws
+Proceso50: ENTRA sección
+Proceso50: SALE sección
+Proceso50: valor escrito kdccb
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito ghsqy
+Proceso40: ENTRA sección
+Proceso40: SALE sección
+Proceso40: valor escrito nypur
+Proceso40: ENTRA sección
+Proceso40: SALE sección
+Proceso40: valor escrito boyuf
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito rfwdr
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito awjko
+Proceso20: ENTRA sección
+Proceso20: SALE sección
+Proceso20: valor escrito plkhe
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito nvsgk
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito jmowd
+Proceso40: ENTRA sección
+Proceso40: SALE sección
+Proceso40: valor escrito uexkn
+Proceso30: ENTRA sección
+Proceso30: SALE sección
+Proceso30: valor escrito tabpb
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito mauki
+Proceso50: ENTRA sección
+Proceso50: SALE sección
+Proceso50: valor escrito antiv
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito wefte
+Proceso40: ENTRA sección
+Proceso40: SALE sección
+Proceso40: valor escrito jxsbw
+Proceso20: ENTRA sección
+Proceso20: SALE sección
+Proceso20: valor escrito kbpva
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito cpspf
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito rtqcd
+Proceso40: ENTRA sección
+Proceso40: SALE sección
+Proceso40: valor escrito tigdd
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito ukkvy
+Proceso30: ENTRA sección
+Proceso30: SALE sección
+Proceso30: valor escrito naprp
+Proceso20: ENTRA sección
+Proceso20: SALE sección
+Proceso20: valor escrito jepdt
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito qmoxt
+Proceso50: ENTRA sección
+Proceso50: SALE sección
+Proceso50: valor escrito tywhb
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito vncmx
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito qqski
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito gyjgw
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito gudlp
+Proceso20: ENTRA sección
+Proceso20: SALE sección
+Proceso20: valor escrito xldwm
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito qsuvj
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito duouo
+Proceso40: ENTRA sección
+Proceso40: SALE sección
+Proceso40: valor escrito kscdd
+Proceso50: ENTRA sección
+Proceso50: SALE sección
+Proceso50: valor escrito pplnu
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito xesvk
+Proceso30: ENTRA sección
+Proceso30: SALE sección
+Proceso30: valor escrito dqyrq
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito djmdl
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso30: ENTRA sección
+Proceso30: SALE sección
+Proceso30: valor escrito ptsel
+Proceso70: ENTRA sección
+Proceso100: valor escrito kfoiu
+Proceso70: SALE sección
+Proceso70: valor escrito kebwu
+Proceso20: ENTRA sección
+Proceso20: SALE sección
+Proceso20: valor escrito gjlkv
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito yaxcb
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito nidex
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito umfev
+Proceso40: ENTRA sección
+Proceso40: SALE sección
+Proceso30: ENTRA sección
+Proceso40: valor escrito tgvhy
+Proceso30: SALE sección
+Proceso30: valor escrito atvus
+Proceso50: ENTRA sección
+Proceso50: SALE sección
+Proceso50: valor escrito vxmtk
+Proceso20: ENTRA sección
+Proceso20: SALE sección
+Proceso20: valor escrito hshbk
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso30: ENTRA sección
+Proceso100: valor escrito pribj
+Proceso30: SALE sección
+Proceso30: valor escrito xvilx
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito oolgk
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito vbivw
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito lcfxv
+Proceso40: ENTRA sección
+Proceso40: SALE sección
+Proceso40: valor escrito uactj
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso80: ENTRA sección
+Proceso90: valor escrito howdr
+Proceso80: SALE sección
+Proceso80: valor escrito trcto
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito kbxhr
+Proceso50: ENTRA sección
+Proceso50: SALE sección
+Proceso50: valor escrito doedl
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito bxpgy
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso70: ENTRA sección
+Proceso100: valor escrito wjgsn
+Proceso70: SALE sección
+Proceso70: valor escrito igguy
+Proceso30: ENTRA sección
+Proceso30: SALE sección
+Proceso30: valor escrito nwlwf
+Proceso20: ENTRA sección
+Proceso20: SALE sección
+Proceso20: valor escrito ocjvy
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito cvamf
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso40: ENTRA sección
+Proceso90: valor escrito kutms
+Proceso40: SALE sección
+Proceso40: valor escrito wtaja
+Proceso50: ENTRA sección
+Proceso50: SALE sección
+Proceso50: valor escrito qspgc
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito pslrs
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito tglgk
+Proceso40: ENTRA sección
+Proceso40: SALE sección
+Proceso40: valor escrito dlwav
+Proceso30: ENTRA sección
+Proceso30: SALE sección
+Proceso30: valor escrito yjbcd
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito ckyms
+Proceso20: ENTRA sección
+Proceso20: SALE sección
+Proceso20: valor escrito tbmdl
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito ewjdi
+Proceso50: ENTRA sección
+Proceso50: SALE sección
+Proceso50: valor escrito tcaikProceso90: ENTRA sección
+
+Proceso90: SALE sección
+Proceso90: valor escrito rrfwd
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito xcdrf
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito welwe
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito oxyad
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito peokx
+Proceso30: ENTRA sección
+Proceso30: SALE sección
+Proceso20: ENTRA sección
+Proceso30: valor escrito liiad
+Proceso20: SALE sección
+Proceso20: valor escrito esjoo
+Proceso40: ENTRA sección
+Proceso40: SALE sección
+Proceso40: valor escrito icxqu
+Proceso50: ENTRA sección
+Proceso50: SALE sección
+Proceso50: valor escrito wmwml
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso80: ENTRA sección
+Proceso90: valor escrito rfmtp
+Proceso80: SALE sección
+Proceso80: valor escrito wpvuq
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito ukhev
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito eikop
+Proceso40: ENTRA sección
+Proceso40: SALE sección
+Proceso40: valor escrito hvfjy
+Proceso30: ENTRA sección
+Proceso30: SALE sección
+Proceso30: valor escrito ahcqt
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito ppfxe
+Proceso50: ENTRA sección
+Proceso50: SALE sección
+Proceso70: ENTRA sección
+Proceso50: valor escrito gkiwv
+Proceso70: SALE sección
+Proceso70: valor escrito bkurs
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito ihvsp
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito bylqy
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito ijxba
+Proceso40: ENTRA sección
+Proceso40: SALE sección
+Proceso90: ENTRA sección
+Proceso40: valor escrito tedqf
+Proceso90: SALE sección
+Proceso90: valor escrito mjjvf
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso100: ENTRA sección
+Proceso60: valor escrito eqwgs
+Proceso100: SALE sección
+Proceso100: valor escrito sxqiu
+Proceso30: ENTRA sección
+Proceso30: SALE sección
+Proceso30: valor escrito lsbqr
+Proceso50: ENTRA sección
+Proceso50: SALE sección
+Proceso50: valor escrito draix
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito wtlwx
+Proceso30: ENTRA sección
+Proceso30: SALE sección
+Proceso30: valor escrito vrife
+Proceso50: ENTRA sección
+Proceso50: SALE sección
+Proceso50: valor escrito xiyap
+Proceso40: ENTRA sección
+Proceso40: SALE sección
+Proceso40: valor escrito mbtxq
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito vtrhj
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito vmhih
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito jtkrb
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito gtvxx
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito kbadk
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito gslpj
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito adoak
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito slqgq
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito kpsts
+Proceso40: ENTRA sección
+Proceso40: SALE sección
+Proceso40: valor escrito vgaup
+Proceso50: ENTRA sección
+Proceso50: SALE sección
+Proceso50: valor escrito xcsqn
+Proceso50: ENTRA sección
+Proceso50: SALE sección
+Proceso50: valor escrito bxiyc
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso40: ENTRA sección
+Proceso40: SALE sección
+Proceso40: valor escrito pkdvp
+Proceso100: valor escrito gqwvm
+Proceso30: ENTRA sección
+Proceso30: SALE sección
+Proceso80: ENTRA sección
+Proceso30: valor escrito nocrs
+Proceso80: SALE sección
+Proceso80: valor escrito ukfyc
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito lwyld
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito lrkqx
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito nhkxf
+Proceso40: ENTRA sección
+Proceso40: SALE sección
+Proceso40: valor escrito rxtmd
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso50: ENTRA sección
+Proceso70: valor escrito qlkdh
+Proceso50: SALE sección
+Proceso50: valor escrito alhso
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito akpbr
+Proceso30: ENTRA sección
+Proceso30: SALE sección
+Proceso30: valor escrito hgoss
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito motdh
+Proceso50: ENTRA sección
+Proceso50: SALE sección
+Proceso50: valor escrito fdgqs
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito bdgdy
+Proceso30: ENTRA sección
+Proceso30: SALE sección
+Proceso30: valor escrito pksel
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito xyedu
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito nghri
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito fyqwy
+Proceso40: ENTRA sección
+Proceso40: SALE sección
+Proceso40: valor escrito wmhwj
+Proceso40: ENTRA sección
+Proceso40: SALE sección
+Proceso40: valor escrito mkptj
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito dktdt
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito edfnj
+Proceso50: ENTRA sección
+Proceso50: SALE sección
+Proceso50: valor escrito ctbjb
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso90: ENTRA sección
+Proceso100: valor escrito obmyj
+Proceso90: SALE sección
+Proceso90: valor escrito ofeue
+Proceso30: ENTRA sección
+Proceso30: SALE sección
+Proceso30: valor escrito ahicy
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito ttrff
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito bxobe
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito rexcj
+Proceso30: ENTRA sección
+Proceso30: SALE sección
+Proceso30: valor escrito dwdyt
+Proceso50: ENTRA sección
+Proceso50: SALE sección
+Proceso50: valor escrito prwjl
+Proceso40: ENTRA sección
+Proceso40: SALE sección
+Proceso40: valor escrito cwdvy
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito byfvr
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito ywajh
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito xnahg
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito eeovo
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito grsbn
+Proceso30: ENTRA sección
+Proceso30: SALE sección
+Proceso30: valor escrito wopvi
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso50: ENTRA sección
+Proceso100: valor escrito ueglo
+Proceso50: SALE sección
+Proceso50: valor escrito wwykp
+Proceso40: ENTRA sección
+Proceso40: SALE sección
+Proceso40: valor escrito mdyfq
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito ujsud
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito ppaqg
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito tgwng
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito wdfym
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito slauw
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito oyjey
+Proceso30: ENTRA sección
+Proceso30: SALE sección
+Proceso30: valor escrito mcuop
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito qgnbr
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito mtnjh
+Proceso50: ENTRA sección
+Proceso50: SALE sección
+Proceso50: valor escrito cytfk
+Proceso40: ENTRA sección
+Proceso40: SALE sección
+Proceso40: valor escrito jsiaj
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito yevsn
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito nfkgl
+Proceso50: ENTRA sección
+Proceso50: SALE sección
+Proceso50: valor escrito ugbnb
+Proceso40: ENTRA sección
+Proceso40: SALE sección
+Proceso40: valor escrito cwvon
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso30: ENTRA sección
+Proceso60: valor escrito umsmv
+Proceso30: SALE sección
+Proceso30: valor escrito kaerf
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito rxekl
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito qayif
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito rjpjt
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito ucqds
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito prrqq
+Proceso30: ENTRA sección
+Proceso30: SALE sección
+Proceso30: valor escrito vckvr
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito nwwao
+Proceso50: ENTRA sección
+Proceso50: SALE sección
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito cdmlv
+Proceso50: valor escrito cevbv
+Proceso40: ENTRA sección
+Proceso40: SALE sección
+Proceso40: valor escrito calvm
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito uehmp
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito wqwgs
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito kpbpx
+Proceso40: ENTRA sección
+Proceso40: SALE sección
+Proceso40: valor escrito qilyi
+Proceso50: ENTRA sección
+Proceso50: SALE sección
+Proceso50: valor escrito bdovc
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito yaosl
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito edvfk
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito qnryr
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito duwqw
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito lwemq
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito ljtlx
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito vviyn
+Proceso40: ENTRA sección
+Proceso40: SALE sección
+Proceso40: valor escrito jqmjg
+Proceso50: ENTRA sección
+Proceso50: SALE sección
+Proceso50: valor escrito dmgkn
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito amtik
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito mmkcc
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito bqreb
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito ugjuq
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito awlke
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito imfxp
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito uhmya
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito yrvnr
+Proceso40: ENTRA sección
+Proceso40: SALE sección
+Proceso40: valor escrito gjqrd
+Proceso50: ENTRA sección
+Proceso50: SALE sección
+Proceso50: valor escrito iaesh
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito eqfhv
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito dffee
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito cjcrj
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito vjhsn
+Proceso50: ENTRA sección
+Proceso50: SALE sección
+Proceso50: valor escrito hihtg
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito iwyeo
+Proceso40: ENTRA sección
+Proceso40: SALE sección
+Proceso40: valor escrito qvtkr
+Proceso50: ENTRA sección
+Proceso50: SALE sección
+Proceso50: valor escrito eigjl
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito xdjiu
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito hqimj
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito bqdqf
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito anxqm
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito hxamt
+Proceso50: ENTRA sección
+Proceso50: SALE sección
+Proceso50: valor escrito oadji
+Proceso40: ENTRA sección
+Proceso40: SALE sección
+Proceso40: valor escrito ibtgf
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito vulcb
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito nohyo
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito bsqgg
+Proceso50: ENTRA sección
+Proceso50: SALE sección
+Proceso50: valor escrito eefvh
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito udxop
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito xntod
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito lnwbr
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito dpgsf
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito arstl
+Proceso50: ENTRA sección
+Proceso50: SALE sección
+Proceso50: valor escrito dgppn
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito wkxpu
+Proceso40: ENTRA sección
+Proceso40: SALE sección
+Proceso40: valor escrito bfqmh
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito xbaso
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito ndari
+Proceso50: ENTRA sección
+Proceso50: SALE sección
+Proceso50: valor escrito yfkvr
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito qpble
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito skjeo
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito nffvr
+Proceso40: ENTRA sección
+Proceso40: SALE sección
+Proceso40: valor escrito pfndf
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito svvgb
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito tebua
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito vwoig
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito pnixk
+Proceso50: ENTRA sección
+Proceso50: SALE sección
+Proceso50: valor escrito xmbci
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito hacjw
+Proceso50: ENTRA sección
+Proceso50: SALE sección
+Proceso50: valor escrito kpnti
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito fkcpp
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito tcfdv
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito lanuf
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito alder
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito rkdph
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito ujsxv
+Proceso50: ENTRA sección
+Proceso50: SALE sección
+Proceso50: valor escrito epicc
+Proceso50: ENTRA sección
+Proceso50: SALE sección
+Proceso50: valor escrito iykxj
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito cjrjb
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito jtvji
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito pccwj
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito btdmr
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito bctsn
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito roiuf
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito xywef
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito iirar
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito nlsag
+Proceso50: ENTRA sección
+Proceso50: SALE sección
+Proceso50: valor escrito wjsdo
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito ojscv
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito qlaiy
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito ikvyg
+Proceso50: ENTRA sección
+Proceso50: SALE sección
+Proceso50: valor escrito hqgnh
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito msyiw
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito cjkrb
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito notlr
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito fifnm
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito snexr
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito mqvyu
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito sifum
+Proceso50: ENTRA sección
+Proceso50: SALE sección
+Proceso50: valor escrito ogkfw
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito lvwnm
+Proceso50: ENTRA sección
+Proceso50: SALE sección
+Proceso50: valor escrito uxoxv
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito ulvpg
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito yvdii
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito kumph
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso60: ENTRA sección
+Proceso90: valor escrito lctve
+Proceso60: SALE sección
+Proceso60: valor escrito avcjy
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito gmgxl
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito vykhw
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito jpcrp
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito egxed
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito wxteb
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito ffxqo
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito pysux
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito ieweh
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito hhtmm
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso90: ENTRA sección
+Proceso70: valor escrito kjwwf
+Proceso90: SALE sección
+Proceso90: valor escrito kywad
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito iswce
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito hmlof
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito xufrj
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito rxhhu
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito mntgm
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito ifvtd
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito wlklr
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito othsj
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito jxmfp
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito fssrs
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito wrxhp
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito guniq
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito dxdra
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito kvmfw
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito bahqp
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito bnfvr
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito ryakf
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito yimtp
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito gtfbs
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito tikho
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito fevnf
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito brwkt
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito duchr
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito xmyoy
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito ajkew
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito hcqok
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito snfvf
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito sgfdj
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito fkpnl
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito xsbiy
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito hlqrg
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito hsyge
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito pyxtb
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito hmxyj
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito wivku
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito vbhdj
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito fmocp
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito sfhsp
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito jcbwh
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito odovn
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito gloct
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito logld
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito oudnl
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito irfhy
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito cifad
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito prwts
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito kcxno
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito tswrf
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito dgnwh
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito btlwi
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito sdyho
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito netba
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito xycyf
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito pwhpn
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito daxin
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito frmtk
+Proceso60: ENTRA sección
+Proceso60: SALE sección
+Proceso60: valor escrito vnlce
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito rgoqh
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito vtrub
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito sapqu
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito gfedq
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito dnfxu
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito xtmup
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito gwktj
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito uhoyy
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito emfgq
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito nkgfq
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito ytwyt
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito lpyuk
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito jtijn
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito gwahp
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito rwafj
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito dsowm
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito sodaq
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito jfciq
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito srcwn
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito tkxjn
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito ebnjx
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito jukaa
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito yucty
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito csrpv
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito tdonx
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito peqsq
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito kmctw
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito ntnjn
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito ucpfw
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito timhm
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito skhkg
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito afref
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito eboyp
+Proceso70: ENTRA sección
+Proceso70: SALE sección
+Proceso70: valor escrito ufsna
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito gilqv
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito lkubf
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito bxqfj
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito bfahn
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito ehtpw
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito egjga
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito sgpbk
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito aesub
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito bgwyr
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito wfmie
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito sdajh
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito punid
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito uvjql
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito bdkdx
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito fvwcj
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito mvbfq
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito ewyct
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito dcngy
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito sqwmi
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito spkfe
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito cnkax
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito uvvxa
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito xcrin
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito ryklt
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito ruucr
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito pppdf
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito ppaqd
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito sfeuo
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito kpprl
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito wwggo
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito vskpu
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito pauex
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito hssjy
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito aftyp
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito olfnf
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito knooq
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito unmul
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito pgmje
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito nuosn
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito ambep
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito vvmyk
+Proceso80: ENTRA sección
+Proceso80: SALE sección
+Proceso80: valor escrito piexs
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito axbpi
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito ikrrt
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito qeycy
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito cdngk
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito vjejo
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito byavh
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito gaona
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito npuuf
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito hqqcj
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito mmnvd
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito csbpy
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito pmvvf
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito fajmh
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito qbkvk
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito ibufn
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito jkies
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito hlhao
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito uquhe
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito uwrti
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito mycfi
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito mdsfi
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito egkrw
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito dthsg
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito vkgig
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito lqhdn
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito ptshk
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito ycgfx
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito lcwex
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito lbmxc
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito ckion
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito gmuef
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito ttgcm
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito ufihp
+Proceso90: ENTRA sección
+Proceso90: SALE sección
+Proceso90: valor escrito cwqxk
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito rkwxi
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito rbohl
+Proceso100: ENTRA sección
+Proceso100: SALE sección
+Proceso100: valor escrito jayvv
