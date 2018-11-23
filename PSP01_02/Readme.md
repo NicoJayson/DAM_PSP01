@@ -43,7 +43,7 @@ Los distintos procesos crean cada uno 10 palabras mas que el anterior con lo que
 
 `java -jar lenguaje.jar 10 combinaciones.txt`
 
-![](capturas/combinacion.PNG "Ejemplo de fichero")  
+![](combinacion.PNG "Ejemplo de fichero")  
 
 Se nos generara el archivo combinaciones.txt con 10 palabras
 
@@ -51,9 +51,9 @@ Se nos generara el archivo combinaciones.txt con 10 palabras
 
 `java -jar colaborar.jar Maxcombinaciones.txt`
 
-![](capturas/Maxcombinacion.PNG "Ejemplo de fichero")  
+![](Maxcombinacion.PNG "Ejemplo de fichero")  
 
 Se nos generara los archivos Maxcombinaciones.txt con las 550 palabras y otro archivo llamado javalog.txt en el que se guardan los pasos de insercion de palabras en el fichero anterior.
 
 Captura de pantalla de la ejecucion de los 2 comandos 
-![](capturas/Captura.PNG "Resultaro de la ejecución de los comando")
+![](Captura.PNG "Resultaro de la ejecución de los comando")
